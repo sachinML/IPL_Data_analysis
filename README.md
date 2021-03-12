@@ -1,1 +1,1 @@
-# This Project is related to IPL Data analysis where inside out of a player insights related to performance has done and also some main performance throught the tournamnet among teams has been analysed here.
+# Ipl data_analysis
