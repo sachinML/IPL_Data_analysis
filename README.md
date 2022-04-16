@@ -5,6 +5,7 @@ A Data analysis project based on Kaggle dataset where the I have analysed the pe
 
 ## Plots
 Some of the plots shown here-
+
 ![plot](./1.png)
 ![plot](./2.png)
 ![plot](./3.png)
