@@ -6,10 +6,9 @@ A Data analysis project based on Kaggle dataset where I have analysed the perfor
 ## Plots
 Some of the plots shown here-
 
-![plot](./1.png)
-![plot](./2.png)
-![plot](./3.png)
-![plot](./4.png)
+![plot](./3476.png)
+![plot](./3478.png)
+![plot](./3479.png)
 
 ## Technologies used
 Python, NumPy, Pandas, Matplotlib, Seaborn
