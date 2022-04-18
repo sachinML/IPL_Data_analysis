@@ -10,7 +10,8 @@ Types of dismissal
 
 ![plot](./3476.png)
 
-Run Scoring in Different ways like (Single, double, boundaries etc.)
+Percentage of Run Scoring in Different ways like (Single, double, boundaries etc.)
+
 ![plot](./3478.png)
 
 Range of total First inning runs scored by each Team
