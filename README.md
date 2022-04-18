@@ -14,6 +14,7 @@ Run Scoring in Different ways like (Single, double, boundaries etc.)
 ![plot](./3478.png)
 
 Range of total First inning runs scored by each Team
+
 ![plot](./3479.png)
 
 ## Technologies used
