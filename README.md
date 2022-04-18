@@ -7,6 +7,7 @@ A Data analysis project based on Kaggle dataset where I have analysed the perfor
 Some of the plots shown here-
 
 Types of dismissal
+
 ![plot](./3476.png)
 
 Run Scoring in Different ways like (Single, double, boundaries etc.)
