@@ -18,4 +18,4 @@ Range of total First inning runs scored by each Team
 ![plot](./3479.png)
 
 ## Technologies used
-Python, NumPy, Pandas, Matplotlib, Seaborn
+Python, NumPy, Pandas, Matplotlib, Seaborn, MatplotLib
