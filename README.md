@@ -4,7 +4,6 @@
 A Data analysis project based on Kaggle dataset where I have analysed the performances of player throughout the tournament regarding runs, dissmissial and all against each team and also analysed the all team performances throghout the tournamnent. so after all these process some of the plots are shown below-
 
 ## Plots
-Some of the plots shown here-
 
 Types of dismissal
 
