@@ -1,4 +1,4 @@
-# Ipl data_analysis
+# IPL Data Analysis
 
 ## Discription
 A Data analysis project based IPL dataset on Kaggle where I have analysed the performances of player throughout the tournament which includes individual runs, dissmissial against each team and also analysed the all IPL team performances against each other throghout the tournamnent. so after all these process some of the plots are shown below-
