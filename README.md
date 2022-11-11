@@ -5,7 +5,7 @@ A Data analysis project based IPL dataset on Kaggle where I have analysed the pe
 
 ## Plots
 
-Types of dismissal
+Types of dismissal-
 
 ![plot](./3476.png)
 
